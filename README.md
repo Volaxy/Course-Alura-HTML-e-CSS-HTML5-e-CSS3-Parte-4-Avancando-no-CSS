@@ -6,8 +6,8 @@ URL do curso -> [HTML5 e CSS3 parte 4: Avançando no CSS](https://www.alura.com.
 ![HTML5 e CSS3 parte 4: Avançando no CSS](https://www.alura.com.br/assets/api/share/curso-html5-css3-avancando-css.png)
 
 ## Links Úteis
-* (Google Fonts)[https://fonts.google.com/] - Site do Google para importação e download de fontes.
-* (Google Maps)[https://www.google.com/maps] - Site do Google para mapas e importação deles no site.
+* [Google Fonts](https://fonts.google.com/) - Site do Google para importação e download de fontes.
+* [Google Maps](https://www.google.com/maps) - Site do Google para mapas e importação deles no site.
 
 ## Siglas
 *
@@ -25,3 +25,9 @@ URL do curso -> [HTML5 e CSS3 parte 4: Avançando no CSS](https://www.alura.com.
 * A utilizar fontes externas nas nossas páginas.
 * Como incorporar um mapa à nossa página.
 * Como incorporar um vídeo à nossa página.
+
+## 03 - Melhorando o CSS
+* A melhorar mais ainda a semântica da página principal, com novas divisões, classes, etc.
+* Novas pseudo-classes.
+* Como aplicar um *background* gradiente na página.
+* Pseudo-elementos.
